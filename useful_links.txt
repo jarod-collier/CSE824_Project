@@ -1,2 +1,15 @@
-https://docs.aws.amazon.com/gamelift/latest/developerguide/gamelift-intro.html
+Guide for gamelift: https://docs.aws.amazon.com/gamelift/latest/developerguide/gamelift-intro.html
+
+Usernames: luke_sperling     dan_michaels
+password: cse_824_project
+
+Sign-in URL for IAM users: https://041028225378.signin.aws.amazon.com/console
+
+
+
+
+
+
+
+
 
