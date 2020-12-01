@@ -1,0 +1,122 @@
+BackupNameAttachment=" Build(0) 01 Dec 20 (17 30 02)"  -- used by backup system
+Log Started at 12/01/20 17:30:02
+Built on Jun 21 2016 16:48:02
+Running 64 bit Windows version
+Executable: C:\Users\Owner\Desktop\CS\CSE824\GameLift_MultiplayerSampleClient\GameLiftSampleClient\Bin64.Release\MultiplayerProjectLauncher.exe
+FileVersion: 0.0.0.0
+ProductVersion: 0.0.0.0 - Build 0
+Using Microsoft (tm) C++ Standard Library implementation
+
+Total number of logical processors: 8
+Number of available logical processors: 8
+Total number of system cores: 4
+Number of cores available to process: 4
+ 
+Processor 0:
+  CPU: Intel Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz
+  Family: 6, Model: 14, Stepping: 3
+  FPU: On-Chip
+  3DNow!: not present
+  MMX: not present
+  SSE: present
+  SSE2: present
+  SSE3: present
+  Serial number not present or disabled
+ 
+Processor 1:
+  CPU: Intel Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz
+  Family: 6, Model: 14, Stepping: 3
+  FPU: On-Chip
+  3DNow!: not present
+  MMX: not present
+  SSE: present
+  SSE2: present
+  SSE3: present
+  Serial number not present or disabled
+ 
+Processor 2:
+  CPU: Intel Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz
+  Family: 6, Model: 14, Stepping: 3
+  FPU: On-Chip
+  3DNow!: not present
+  MMX: not present
+  SSE: present
+  SSE2: present
+  SSE3: present
+  Serial number not present or disabled
+ 
+Processor 3:
+  CPU: Intel Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz
+  Family: 6, Model: 14, Stepping: 3
+  FPU: On-Chip
+  3DNow!: not present
+  MMX: not present
+  SSE: present
+  SSE2: present
+  SSE3: present
+  Serial number not present or disabled
+ 
+Loading system configuration from system_windows_pc.cfg...
+<17:30:02> GameDir: MultiplayerProject
+<17:30:02> Windows 8 64 bit (build 6.2.9200)
+<17:30:02> System language: English
+<17:30:02> Windows Directory: "C:\WINDOWS"
+<17:30:02> Local time is 17:30:02 12/01/20, system running for 26758 minutes
+<17:30:02> 12184MB physical memory installed, 3906MB available, 134217727MB virtual memory installed, 67 percent of memory in use
+<17:30:02> PageFile usage: 39MB, Working Set: 32MB, Peak PageFile usage: 39MB,
+<17:30:02> Current display mode is 1920x1080x32, (Unknown graphics card)
+<17:30:02> Japanese keyboard and 16+ button mouse installed
+<17:30:02> --------------------------------------------------------------------------------
+<17:30:02> Stream Engine Initialization
+<17:30:02> GameName: Lumberyard
+<17:30:02> BuildTime: Jun 21 2016 16:48:02
+<17:30:02> Physics initialization
+<17:30:02> Renderer initialization
+<17:30:02> Logging video adapters:
+<17:30:02> - Intel(R) HD Graphics 530 (vendor = 0x8086, device = 0x191b)
+<17:30:02>   - Adapter index: 0
+<17:30:02>   - Dedicated video memory: 128 MB
+<17:30:02>   - Feature level: DX11 (SM 5.0)
+<17:30:02>   - Displays connected: yes
+<17:30:02>   - Suitable rendering device: yes
+<17:30:03> - NVIDIA GeForce GTX 970M (vendor = 0x10de, device = 0x13d8)
+<17:30:03>   - Adapter index: 1
+<17:30:03>   - Dedicated video memory: 3032 MB
+<17:30:03>   - Feature level: DX11 (SM 5.0)
+<17:30:03>   - Displays connected: no
+<17:30:03>   - Suitable rendering device: no
+<17:30:03> - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<17:30:03>   - Adapter index: 2
+<17:30:03>   - Dedicated video memory: 0 MB
+<17:30:03>   - Feature level: DX11 (SM 5.0)
+<17:30:03>   - Displays connected: no
+<17:30:03>   - Suitable rendering device: no
+<17:30:03> Active GPUs: 1
+<17:30:03> <Audio>: AudioSystem initialization
+<17:30:34> Font initialization
+<17:30:34> Using FreeType 2.5.0
+<17:30:34> MovieSystem initialization
+<17:30:34> Time initialization
+<17:30:34> Input initialization
+<17:30:34> UI system initialization
+<17:30:34> AI initialization
+<17:30:34> Initializing Animation System
+<17:30:34> Initializing 3D Engine
+<17:30:34> Initializing Gems System
+<17:30:34> Script System Initialization
+<17:30:34> Entity system initialization
+<17:30:34> Network initialization
+<17:30:34> [Network Version]: RELEASE 
+<17:30:34> Initializing AI System
+<17:30:34> Initializing additional systems
+<17:30:34> Dynamic Response System initialization
+<17:30:34> No Dynamic Response System was loaded from a module, will use the NULL DynamicResponseSystem.
+<17:30:34> LmbrAWS system initialization
+<17:30:35> [GameProfiles]: Successfully activated profile 'default' for user 'Jarod::MultiplayerProjectLauncher'
+<17:30:35> Initializing default materials...
+<17:30:35>     sv_port = 0 [DUMPTODISK]
+<17:30:35>     gamelift_fleet_id = fleet-fakefleet [DUMPTODISK]
+<17:30:35>     gamelift_aws_access_key = AKIAIOSFODNN7EXAMPLE [DUMPTODISK]
+<17:30:35>     gamelift_aws_secret_key = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY [DUMPTODISK]
+<17:30:35> ============================ Loading level gameliftsamplelobby ============================
+<17:30:35> GameRules: Set game rules to 0000019A87E45AB0, GameRules
