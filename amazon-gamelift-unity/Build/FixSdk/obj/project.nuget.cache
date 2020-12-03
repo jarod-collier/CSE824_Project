@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zQVxGjHzWTaG/zEQc64bjHXi2GrXsqdpjwSbsC9pQs8fnyBZ7j26tIkpuGELyUkMAl8c8wrAD85upvMlPqNrKg==",
+  "dgSpecHash": "NWdtLu+6H3ybZrdXy0c2IZeoaQo4b30jMSq+C91VyRpLEPOGnkkhu/ByxkDrHEMAyqdfrdZtR6ArYsmgqzRyRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Owner\\Desktop\\CS\\CSE824\\amazon-gamelift-unity\\Build\\FixSdk\\FixSdk.csproj",
+  "projectFilePath": "C:\\Users\\Owner\\Desktop\\CS\\CSE824\\CSE824_Project\\amazon-gamelift-unity\\Build\\FixSdk\\FixSdk.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

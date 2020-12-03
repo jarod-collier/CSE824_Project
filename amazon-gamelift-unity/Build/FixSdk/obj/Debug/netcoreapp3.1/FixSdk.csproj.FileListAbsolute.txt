@@ -11,3 +11,16 @@ C:\Users\Owner\Desktop\CS\CSE824\amazon-gamelift-unity\Build\FixSdk\obj\Debug\ne
 C:\Users\Owner\Desktop\CS\CSE824\amazon-gamelift-unity\Build\FixSdk\obj\Debug\netcoreapp3.1\FixSdk.dll
 C:\Users\Owner\Desktop\CS\CSE824\amazon-gamelift-unity\Build\FixSdk\obj\Debug\netcoreapp3.1\FixSdk.pdb
 C:\Users\Owner\Desktop\CS\CSE824\amazon-gamelift-unity\Build\FixSdk\obj\Debug\netcoreapp3.1\FixSdk.genruntimeconfig.cache
+C:\Users\Owner\Desktop\CS\CSE824\CSE824_Project\amazon-gamelift-unity\Build\FixSdk\bin\Debug\netcoreapp3.1\FixSdk.exe
+C:\Users\Owner\Desktop\CS\CSE824\CSE824_Project\amazon-gamelift-unity\Build\FixSdk\bin\Debug\netcoreapp3.1\FixSdk.deps.json
+C:\Users\Owner\Desktop\CS\CSE824\CSE824_Project\amazon-gamelift-unity\Build\FixSdk\bin\Debug\netcoreapp3.1\FixSdk.runtimeconfig.json
+C:\Users\Owner\Desktop\CS\CSE824\CSE824_Project\amazon-gamelift-unity\Build\FixSdk\bin\Debug\netcoreapp3.1\FixSdk.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\CS\CSE824\CSE824_Project\amazon-gamelift-unity\Build\FixSdk\bin\Debug\netcoreapp3.1\FixSdk.dll
+C:\Users\Owner\Desktop\CS\CSE824\CSE824_Project\amazon-gamelift-unity\Build\FixSdk\bin\Debug\netcoreapp3.1\FixSdk.pdb
+C:\Users\Owner\Desktop\CS\CSE824\CSE824_Project\amazon-gamelift-unity\Build\FixSdk\obj\Debug\netcoreapp3.1\FixSdk.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\CS\CSE824\CSE824_Project\amazon-gamelift-unity\Build\FixSdk\obj\Debug\netcoreapp3.1\FixSdk.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\CS\CSE824\CSE824_Project\amazon-gamelift-unity\Build\FixSdk\obj\Debug\netcoreapp3.1\FixSdk.AssemblyInfo.cs
+C:\Users\Owner\Desktop\CS\CSE824\CSE824_Project\amazon-gamelift-unity\Build\FixSdk\obj\Debug\netcoreapp3.1\FixSdk.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\CS\CSE824\CSE824_Project\amazon-gamelift-unity\Build\FixSdk\obj\Debug\netcoreapp3.1\FixSdk.dll
+C:\Users\Owner\Desktop\CS\CSE824\CSE824_Project\amazon-gamelift-unity\Build\FixSdk\obj\Debug\netcoreapp3.1\FixSdk.pdb
+C:\Users\Owner\Desktop\CS\CSE824\CSE824_Project\amazon-gamelift-unity\Build\FixSdk\obj\Debug\netcoreapp3.1\FixSdk.genruntimeconfig.cache

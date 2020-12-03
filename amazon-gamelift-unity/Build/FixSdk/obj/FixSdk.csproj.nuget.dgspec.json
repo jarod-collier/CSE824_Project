@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\Desktop\\CS\\CSE824\\amazon-gamelift-unity\\Build\\FixSdk\\FixSdk.csproj": {}
+    "C:\\Users\\Owner\\Desktop\\CS\\CSE824\\CSE824_Project\\amazon-gamelift-unity\\Build\\FixSdk\\FixSdk.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\Desktop\\CS\\CSE824\\amazon-gamelift-unity\\Build\\FixSdk\\FixSdk.csproj": {
+    "C:\\Users\\Owner\\Desktop\\CS\\CSE824\\CSE824_Project\\amazon-gamelift-unity\\Build\\FixSdk\\FixSdk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\Desktop\\CS\\CSE824\\amazon-gamelift-unity\\Build\\FixSdk\\FixSdk.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\Desktop\\CS\\CSE824\\CSE824_Project\\amazon-gamelift-unity\\Build\\FixSdk\\FixSdk.csproj",
         "projectName": "FixSdk",
-        "projectPath": "C:\\Users\\Owner\\Desktop\\CS\\CSE824\\amazon-gamelift-unity\\Build\\FixSdk\\FixSdk.csproj",
+        "projectPath": "C:\\Users\\Owner\\Desktop\\CS\\CSE824\\CSE824_Project\\amazon-gamelift-unity\\Build\\FixSdk\\FixSdk.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\Desktop\\CS\\CSE824\\amazon-gamelift-unity\\Build\\FixSdk\\obj\\",
+        "outputPath": "C:\\Users\\Owner\\Desktop\\CS\\CSE824\\CSE824_Project\\amazon-gamelift-unity\\Build\\FixSdk\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
