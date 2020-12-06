@@ -1,5 +1,5 @@
-BackupNameAttachment=" Build(0) 01 Dec 20 (17 51 52)"  -- used by backup system
-Log Started at 12/01/20 17:51:52
+BackupNameAttachment=" Build(0) 03 Dec 20 (16 04 13)"  -- used by backup system
+Log Started at 12/03/20 16:04:13
 Built on Jun 21 2016 16:48:02
 Running 64 bit Windows version
 Executable: C:\Users\Owner\Desktop\CS\CSE824\CSE824_Project\GameLift_MultiplayerSampleClient\GameLiftSampleClient\Bin64.Release\MultiplayerProjectLauncher.exe
@@ -57,79 +57,81 @@ Processor 3:
   Serial number not present or disabled
  
 Loading system configuration from system_windows_pc.cfg...
-<17:51:52> GameDir: MultiplayerProject
-<17:51:52> Windows 8 64 bit (build 6.2.9200)
-<17:51:52> System language: English
-<17:51:52> Windows Directory: "C:\WINDOWS"
-<17:51:52> Local time is 17:51:52 12/01/20, system running for 26780 minutes
-<17:51:52> 12184MB physical memory installed, 2945MB available, 134217727MB virtual memory installed, 75 percent of memory in use
-<17:51:52> PageFile usage: 39MB, Working Set: 42MB, Peak PageFile usage: 39MB,
-<17:51:52> Current display mode is 1920x1080x32, (Unknown graphics card)
-<17:51:52> Japanese keyboard and 16+ button mouse installed
-<17:51:52> --------------------------------------------------------------------------------
-<17:51:52> Stream Engine Initialization
-<17:51:52> GameName: Lumberyard
-<17:51:52> BuildTime: Jun 21 2016 16:48:02
-<17:51:52> Physics initialization
-<17:51:52> Renderer initialization
-<17:51:52> Logging video adapters:
-<17:51:52> - Intel(R) HD Graphics 530 (vendor = 0x8086, device = 0x191b)
-<17:51:52>   - Adapter index: 0
-<17:51:52>   - Dedicated video memory: 128 MB
-<17:51:52>   - Feature level: DX11 (SM 5.0)
-<17:51:52>   - Displays connected: yes
-<17:51:52>   - Suitable rendering device: yes
-<17:51:53> - NVIDIA GeForce GTX 970M (vendor = 0x10de, device = 0x13d8)
-<17:51:53>   - Adapter index: 1
-<17:51:53>   - Dedicated video memory: 3032 MB
-<17:51:53>   - Feature level: DX11 (SM 5.0)
-<17:51:53>   - Displays connected: no
-<17:51:53>   - Suitable rendering device: no
-<17:51:53> - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
-<17:51:53>   - Adapter index: 2
-<17:51:53>   - Dedicated video memory: 0 MB
-<17:51:53>   - Feature level: DX11 (SM 5.0)
-<17:51:53>   - Displays connected: no
-<17:51:53>   - Suitable rendering device: no
-<17:51:53> Active GPUs: 1
-<17:51:53> <Audio>: AudioSystem initialization
-<17:52:23> Font initialization
-<17:52:23> Using FreeType 2.5.0
-<17:52:23> MovieSystem initialization
-<17:52:23> Time initialization
-<17:52:23> Input initialization
-<17:52:23> UI system initialization
-<17:52:23> AI initialization
-<17:52:23> Initializing Animation System
-<17:52:23> Initializing 3D Engine
-<17:52:23> Initializing Gems System
-<17:52:23> Script System Initialization
-<17:52:23> Entity system initialization
-<17:52:23> Network initialization
-<17:52:23> [Network Version]: RELEASE 
-<17:52:23> Initializing AI System
-<17:52:23> Initializing additional systems
-<17:52:23> Dynamic Response System initialization
-<17:52:23> No Dynamic Response System was loaded from a module, will use the NULL DynamicResponseSystem.
-<17:52:23> LmbrAWS system initialization
-<17:52:24> [GameProfiles]: Successfully activated profile 'default' for user 'Jarod::MultiplayerProjectLauncher'
-<17:52:24> Initializing default materials...
-<17:52:24>     sv_port = 0 [DUMPTODISK]
-<17:52:24>     gamelift_fleet_id = fleet-fakefleet [DUMPTODISK]
-<17:52:24>     gamelift_aws_access_key = AKIAIOSFODNN7EXAMPLE [DUMPTODISK]
-<17:52:24>     gamelift_aws_secret_key = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY [DUMPTODISK]
-<17:52:24> ============================ Loading level gameliftsamplelobby ============================
-<17:52:24> GameRules: Set game rules to 0000013C5A915EA0, GameRules
-<17:52:38> GameRules: Set game rules to 0000000000000000, <unknown>
-<17:52:38> GameRules: Set game rules to 0000000000000000, <unknown>
-<17:52:39> Initializing default materials...
-<17:52:39> GameRules: Set game rules to 0000013C5AA991D0, GameRules
-<17:52:40> [Game] Player 3105317647l owns character 5
-<17:52:40> [Game] Assigning character 5 to local player
-<17:52:40> Delegating script authority of entity 47 to client 3105317647
-<17:52:40> Delegating script authority of entity 49 to client 3105317647
-<17:52:40> Delegating physics network authority of entity 51 to client 3105317647
-<17:52:40> Delegating script authority of entity 51 to client 3105317647
-<17:57:46> GameRules: Set game rules to 0000000000000000, <unknown>
-<17:57:46> GameRules: Set game rules to 0000000000000000, <unknown>
-<17:57:47> System Shutdown
+<16:04:13> GameDir: MultiplayerProject
+<16:04:13> Windows 8 64 bit (build 6.2.9200)
+<16:04:13> System language: English
+<16:04:13> Windows Directory: "C:\WINDOWS"
+<16:04:13> Local time is 16:04:13 12/03/20, system running for 29552 minutes
+<16:04:13> 12184MB physical memory installed, 2283MB available, 134217727MB virtual memory installed, 81 percent of memory in use
+<16:04:13> PageFile usage: 39MB, Working Set: 42MB, Peak PageFile usage: 39MB,
+<16:04:13> Current display mode is 1920x1080x32, (Unknown graphics card)
+<16:04:13> Japanese keyboard and 16+ button mouse installed
+<16:04:13> --------------------------------------------------------------------------------
+<16:04:13> Stream Engine Initialization
+<16:04:13> GameName: Lumberyard
+<16:04:13> BuildTime: Jun 21 2016 16:48:02
+<16:04:13> Physics initialization
+<16:04:13> Renderer initialization
+<16:04:13> Logging video adapters:
+<16:04:13> - Intel(R) HD Graphics 530 (vendor = 0x8086, device = 0x191b)
+<16:04:13>   - Adapter index: 0
+<16:04:13>   - Dedicated video memory: 128 MB
+<16:04:13>   - Feature level: DX11 (SM 5.0)
+<16:04:13>   - Displays connected: yes
+<16:04:13>   - Suitable rendering device: yes
+<16:04:14> - NVIDIA GeForce GTX 970M (vendor = 0x10de, device = 0x13d8)
+<16:04:14>   - Adapter index: 1
+<16:04:14>   - Dedicated video memory: 3032 MB
+<16:04:14>   - Feature level: DX11 (SM 5.0)
+<16:04:14>   - Displays connected: no
+<16:04:14>   - Suitable rendering device: no
+<16:04:14> - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<16:04:14>   - Adapter index: 2
+<16:04:14>   - Dedicated video memory: 0 MB
+<16:04:14>   - Feature level: DX11 (SM 5.0)
+<16:04:14>   - Displays connected: no
+<16:04:14>   - Suitable rendering device: no
+<16:04:14> Active GPUs: 1
+<16:04:14> <Audio>: AudioSystem initialization
+<16:04:44> Font initialization
+<16:04:44> Using FreeType 2.5.0
+<16:04:44> MovieSystem initialization
+<16:04:44> Time initialization
+<16:04:44> Input initialization
+<16:04:44> UI system initialization
+<16:04:44> AI initialization
+<16:04:44> Initializing Animation System
+<16:04:44> Initializing 3D Engine
+<16:04:44> Initializing Gems System
+<16:04:44> Script System Initialization
+<16:04:44> Entity system initialization
+<16:04:44> Network initialization
+<16:04:44> [Network Version]: RELEASE 
+<16:04:44> Initializing AI System
+<16:04:44> Initializing additional systems
+<16:04:44> Dynamic Response System initialization
+<16:04:44> No Dynamic Response System was loaded from a module, will use the NULL DynamicResponseSystem.
+<16:04:44> LmbrAWS system initialization
+<16:04:44> [GameProfiles]: Successfully activated profile 'default' for user 'Jarod::MultiplayerProjectLauncher'
+<16:04:44> Initializing default materials...
+<16:04:44>     sv_port = 0 [DUMPTODISK]
+<16:04:44>     gamelift_fleet_id = fleet-fakefleet [DUMPTODISK]
+<16:04:44>     gamelift_aws_access_key = AKIAIOSFODNN7EXAMPLE [DUMPTODISK]
+<16:04:44>     gamelift_aws_secret_key = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY [DUMPTODISK]
+<16:04:44> ============================ Loading level gameliftsamplelobby ============================
+<16:04:44> GameRules: Set game rules to 000001B517BB7870, GameRules
+<16:05:29> GameRules: Set game rules to 0000000000000000, <unknown>
+<16:05:29> GameRules: Set game rules to 0000000000000000, <unknown>
+<16:05:29> Initializing default materials...
+<16:05:30> GameRules: Set game rules to 000001B517BD2CE0, GameRules
+<16:05:30> [Game] Player 3992240938l owns character 5
+<16:05:31> [Game] Player 1810945864l owns character 6
+<16:05:31> [Game] Assigning character 6 to local player
+<16:05:31> Delegating script authority of entity 23 to client 1810945864
+<16:05:31> Delegating script authority of entity 25 to client 1810945864
+<16:05:31> Delegating physics network authority of entity 27 to client 1810945864
+<16:05:31> Delegating script authority of entity 27 to client 1810945864
+<16:06:26> [Game] Player 2527136416l owns character 7
+<16:15:36> GameRules: Set game rules to 0000000000000000, <unknown>
+<16:15:36> GameRules: Set game rules to 0000000000000000, <unknown>
+<16:15:36> System Shutdown

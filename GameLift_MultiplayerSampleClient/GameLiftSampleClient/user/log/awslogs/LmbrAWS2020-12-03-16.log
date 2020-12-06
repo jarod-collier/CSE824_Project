@@ -1,0 +1,7 @@
+[INFO] 2020-12-03 16:02:43 WinHttpSyncHttpClient [27916] Creating http client with user agent aws-sdk-cpp/0.9.6-91-g20a97a9 Windows/6.2.9200- AMD64 with max connections 25 request timeout 3000,and connect timeout 1000
+[INFO] 2020-12-03 16:02:43 ConnectionPoolMgr [27916] Creating connection pool mgr with handle 000002373F8580F0, and max connections per host 25, request timeout 3000 ms, and connect timeout in 1000 ms.
+[INFO] 2020-12-03 16:04:45 WinHttpSyncHttpClient [27560] Creating http client with user agent aws-sdk-cpp/0.9.6-91-g20a97a9 Windows/6.2.9200- AMD64 with max connections 25 request timeout 3000,and connect timeout 1000
+[INFO] 2020-12-03 16:04:45 ConnectionPoolMgr [27560] Creating connection pool mgr with handle 000001B52F8646F0, and max connections per host 25, request timeout 3000 ms, and connect timeout in 1000 ms.
+[INFO] 2020-12-03 16:15:36 WinHttpConnectionPoolMgr [24356] Cleaning up conneciton pool mgr.
+[INFO] 2020-12-03 16:15:36 WinHttpConnectionPoolMgr [16900] Cleaning up conneciton pool mgr.
+[INFO] 2020-12-03 16:15:36 WinHttpConnectionPoolMgr [20644] Cleaning up conneciton pool mgr.
