@@ -22,7 +22,7 @@ def curve_fit_network_in(filename, start_index, end_index):
         elif i == 2: #number of players
             colors = line.split(',')[1:]
             colors = colors[start_index:end_index]
-            colors = [int(a) for a in colors]
+            colors = [float(a) for a in colors]
         elif i == 7:#network in
             y = line.split(',')[1:]
             y = y[start_index:end_index]
@@ -54,7 +54,7 @@ def curve_fit_cpu(filename, start_index, end_index):
         elif i == 2: #number of players
             colors = line.split(',')[1:]
             colors = colors[start_index:end_index]
-            colors = [int(a) for a in colors]
+            colors = [float(a) for a in colors]
         elif i == 6:#cpu
             y = line.split(',')[1:]
             y = y[start_index:end_index]
@@ -74,6 +74,6 @@ def curve_fit_cpu(filename, start_index, end_index):
     plt.show()
 
 #curve_fit_network_in("data/robot_ball.csv", 38, 56)
-curve_fit_cpu("data/robot_ball.csv", 38, 56)
-#curve_fit_network_in("data/unity_dots.csv", 100, 200)
+#curve_fit_cpu("data/robot_ball.csv", 38, 56)
+curve_fit_network_in("data/unity_dots.csv", 100, 200)
 #curve_fit_cpu("data/unity_dots.csv", 100, 200)
