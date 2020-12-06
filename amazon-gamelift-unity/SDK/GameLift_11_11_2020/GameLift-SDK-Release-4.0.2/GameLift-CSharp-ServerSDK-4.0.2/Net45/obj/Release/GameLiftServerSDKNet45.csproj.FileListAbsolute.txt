@@ -20,3 +20,4 @@ C:\Users\Owner\Desktop\CS\CSE824\CSE824_Project\amazon-gamelift-unity\SDK\GameLi
 C:\Users\Owner\Desktop\CS\CSE824\CSE824_Project\amazon-gamelift-unity\SDK\GameLift_11_11_2020\GameLift-SDK-Release-4.0.2\GameLift-CSharp-ServerSDK-4.0.2\Net45\obj\Release\GameLiftServerSDKNet45.csproj.CoreCompileInputs.cache
 C:\Users\Owner\Desktop\CS\CSE824\CSE824_Project\amazon-gamelift-unity\SDK\GameLift_11_11_2020\GameLift-SDK-Release-4.0.2\GameLift-CSharp-ServerSDK-4.0.2\Net45\obj\Release\GameLiftServerSDKNet45.csproj.CopyComplete
 C:\Users\Owner\Desktop\CS\CSE824\CSE824_Project\amazon-gamelift-unity\SDK\GameLift_11_11_2020\GameLift-SDK-Release-4.0.2\GameLift-CSharp-ServerSDK-4.0.2\Net45\obj\Release\GameLiftServerSDKNet45.dll
+D:\github\CSE824_Project\amazon-gamelift-unity\SDK\GameLift_11_11_2020\GameLift-SDK-Release-4.0.2\GameLift-CSharp-ServerSDK-4.0.2\Net45\obj\Release\GameLiftServerSDKNet45.dll
