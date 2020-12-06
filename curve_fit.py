@@ -13,11 +13,16 @@ def curve_fit_network_in(filename, start_index, end_index):
     fp = open(filename)
     x=[]
     y=[]
+    colors=[]
     for i, line in enumerate(fp):
         if i == 1:#time
             x = line.split(',')[1:]
             x = x[start_index:end_index]
             x = [float(a) for a in x]
+        elif i == 2: #number of players
+            colors = line.split(',')[1:]
+            colors = colors[start_index:end_index]
+            colors = [int(a) for a in colors]
         elif i == 7:#network in
             y = line.split(',')[1:]
             y = y[start_index:end_index]
@@ -30,7 +35,8 @@ def curve_fit_network_in(filename, start_index, end_index):
     print("Order of function:",*popt)
     
     plt.figure()
-    plt.plot(x, y, 'ko', label="Data")
+    #plt.plot(x, y, "ko", label="Data")
+    plt.scatter(x, y, c=colors, label="Data")
     plt.plot(x, fitted_curve(x, *popt), 'r-', label="Fitted Curve")
     plt.legend()
     plt.show()
@@ -39,11 +45,16 @@ def curve_fit_cpu(filename, start_index, end_index):
     fp = open(filename)
     x=[]
     y=[]
+    colors=[]
     for i, line in enumerate(fp):
         if i == 1:#time
             x = line.split(',')[1:]
             x = x[start_index:end_index]
             x = [float(a) for a in x]
+        elif i == 2: #number of players
+            colors = line.split(',')[1:]
+            colors = colors[start_index:end_index]
+            colors = [int(a) for a in colors]
         elif i == 6:#cpu
             y = line.split(',')[1:]
             y = y[start_index:end_index]
@@ -56,7 +67,8 @@ def curve_fit_cpu(filename, start_index, end_index):
     print("Order of function:",*popt)
     
     plt.figure()
-    plt.plot(x, y, 'ko', label="Data")
+    #plt.plot(x, y, 'ko', label="Data")
+    plt.scatter(x, y, c=colors, label="Data")
     plt.plot(x, fitted_curve(x, *popt), 'r-', label="Fitted Curve")
     plt.legend()
     plt.show()
