@@ -73,7 +73,7 @@ def curve_fit_cpu(filename, start_index, end_index):
     plt.legend()
     plt.show()
 
-#curve_fit_network_in("data/robot_ball.csv", 38, 57)
-#curve_fit_cpu("data/robot_ball.csv", 38, 57)
+#curve_fit_network_in("data/robot_ball.csv", 38, 56)
+curve_fit_cpu("data/robot_ball.csv", 38, 56)
 #curve_fit_network_in("data/unity_dots.csv", 100, 200)
 #curve_fit_cpu("data/unity_dots.csv", 100, 200)
